@@ -1,0 +1,12 @@
+{
+  "name": "kuna-async-queues",
+  "version": "0.0.1",
+  "author": "yastremskij@gmail.com",
+  "scripts": {
+    "build": "npx tsc",
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
