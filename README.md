@@ -1,7 +1,7 @@
 # asyncQueue
 
-Test task for creating async queue
-Steps to start
+Test task for creating async queue. 
+Steps to start:
 - clone repository
 - run npm i
 - run npm run build
